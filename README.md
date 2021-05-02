@@ -3,7 +3,7 @@
 
 - 🔭 I am the Chairman of the **Board of Marmara University Information Technologies.**
 
-- 👯 I’m currently learning **Machine Learning and Deep Learning**
+- 👯 I’m currently learning **Django Framework**
 
 - 💬 Ask me about **Python, Algorithm problems**
 
