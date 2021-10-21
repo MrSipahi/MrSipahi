@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sedat Sipahi</h1>
-<h3 align="center">I am a 3rd grade student at Marmara University Computer and Instructional Technologies department.</h3>
+<h3 align="center">I am a 4rd grade student at Marmara University Computer and Instructional Technologies department.</h3>
 
 - 🔭 I am the Chairman of the **Board of Marmara University Information Technologies.**
 
