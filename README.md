@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sedat Sipahi</h1>
-<h3 align="center">I am a 4rd grade student at Marmara University Computer and Instructional Technologies department.</h3>
+<h3 align="center">I work as a Software Developer at Newsmeter Inc. I am interested in big data and software development processes.</h3>
 
-- 🔭 I am the Chairman of the **Board of Marmara University Information Technologies.**
+- 🔭 I was the Chairman of **Marmara University Information Technologies Board of Directors**.
 
 - 👯 I’m currently learning **Django Framework**
 
-- 💬 Ask me about **Python, Algorithm problems**
+- 💬 Ask me about **Python, Algorithm problems, Web Scraping, NoSQL**
 
 - 📫 How to reach me **sipahisedat54@gmail.com**
 
